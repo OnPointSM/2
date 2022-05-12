@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "http://examplesite.org/"
 title = "Enov Hugo | Html5 Business template"
 theme = "enov-hugo"
 # post pagination
@@ -49,7 +49,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
-  
+
 ############################## navigation ###############################
 
 # main menu
@@ -82,7 +82,7 @@ hasChildren = true
   parent = "Pages"
   name = "Service"
   URL = "service"
-  
+
 [[menu.main]]
 name = "Contact"
 URL = "contact"
