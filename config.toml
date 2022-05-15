@@ -118,16 +118,21 @@ top_header = true
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
-# contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-phone = "+211234565523"
-email = "info@enov.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # search
 search = true
+
+# contact info
+address = "9567 Turner Trace Apt. BC C3G8A4"
+phone = "07793251677"
+email = "info@enov.com"
+
+[params.callme_beacon]
+enable = true
+label = "Call Us"
 
 # Preloader
 [params.preloader]
